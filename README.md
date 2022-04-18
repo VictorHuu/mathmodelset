@@ -1,1 +1,1 @@
-# matlabalgbyvct
+# hi,everyone!I'm a freshman in Tongji University.Next month,I ,along with my two friends,will take part in the campus mathematics modeling competition.I'll updata some algorithms,looking forward to suggestions from everyone.Thx!
